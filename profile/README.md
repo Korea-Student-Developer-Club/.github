@@ -6,10 +6,10 @@
 
 ## 각종링크
 
-festa [here](https://festa.io/hosts/2003)
-kakaotalk [here](https://open.kakao.com/o/gGAJxvvf)
+[festa](https://festa.io/hosts/2003)
+[kakaotalk](https://open.kakao.com/o/gGAJxvvf)
 
 ## Organizer
 
-정삼복 [here](https://github.com/sambok23)
-마시쪄 [here](https://github.com/igiza1213)
+[정삼복](https://github.com/sambok23)
+[마시쪄](https://github.com/igiza1213)
