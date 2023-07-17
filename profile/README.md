@@ -7,9 +7,11 @@
 ## 각종링크
 
 [festa](https://festa.io/hosts/2003)
-[kakaotalk](https://open.kakao.com/o/gGAJxvvf)
+<br>
+[카카오톡 오픈채팅방](https://open.kakao.com/o/gGAJxvvf)
 
 ## Organizer
 
 [정삼복](https://github.com/sambok23)
+<br>
 [마시쪄](https://github.com/igiza1213)
