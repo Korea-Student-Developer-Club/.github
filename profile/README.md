@@ -12,6 +12,6 @@
 
 ## Organizer
 
-[정삼복](https://github.com/sambok23)
+[정삼복](https://github.com/3boku)
 <br>
 [마시쪄](https://github.com/igiza1213)
