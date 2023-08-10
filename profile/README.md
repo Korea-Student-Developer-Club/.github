@@ -5,7 +5,8 @@
 모두 Organizer가 될 수 있습니다! `정삼복`에게 컨택 부탁드립니다!
 
 ## 각종링크
-
+[공식 웹사이트](https://ksdc.io)
+<br>
 [페스타](https://festa.io/hosts/2003)
 <br>
 [카카오톡 오픈채팅방](https://open.kakao.com/o/gGAJxvvf)
