@@ -9,7 +9,7 @@ KSDC(Korea Student Developer Club)는 국내 최고의 **학생들의 개발자 
 <br>
 [카카오톡 오픈채팅방](https://open.kakao.com/o/gGAJxvvf)
 <br>
-[디스코드 서버](https:/ksdc.io/discord)
+[디스코드 서버](https://ksdc.io/discord)
 
 ## 🔧 Organizer
 
